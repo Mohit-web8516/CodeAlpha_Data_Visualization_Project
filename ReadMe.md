@@ -88,17 +88,36 @@ CodeAlpha_Data_Visualization_Project/
 
 ---
 
-## 🚀 Future Improvements
+## ▶️ How to Run the Project
 
-- Interactive dashboard using Power BI or Tableau
-- Sentiment Analysis using NLP
-- Customer Segmentation
-- Predictive Analytics
+1. Clone this repository.
+
+```bash
+git clone <repository-url>
+```
+
+2. Navigate to the project folder.
+
+```bash
+cd CodeAlpha_Data_Visualization_Project
+```
+
+3. Install the required libraries.
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Open the notebook.
+
+```bash
+jupyter notebook
+```
+
+5. Run all cells in **Data_Visualization.ipynb**.
 
 ---
 
-## 👨‍💻 Author
+## 📌 Conclusion
 
-**Mohit Shrivastav**
-
-CodeAlpha Data Analytics Internship Project
+This project demonstrates how effective data visualization can transform raw customer review data into meaningful business insights. Through charts, graphs, and a dashboard, customer behavior and product performance were presented in a clear and informative manner, supporting data-driven decision-making.
