@@ -86,7 +86,7 @@ CodeAlpha_Data_Visualization_Project/
 - Review patterns help understand customer satisfaction.
 - Visual storytelling simplifies business decision-making.
 
----
+---------------------------------
 
 ## ▶️ How to Run the Project
 
@@ -116,7 +116,7 @@ jupyter notebook
 
 5. Run all cells in **Data_Visualization.ipynb**.
 
----
+--------------------------------
 
 ## 📌 Conclusion
 
